@@ -1,5 +1,5 @@
 # ADFR
-This library contains the code implementation for Airline Attacker-Defender and Flight Rerouting Project
+This library contains the code implementation for the Airline Attacker-Defender and Flight Rerouting Project
 
 ## Requirements
 The library requires MATLAB version 2017B or newer with the Optimization Toolbox.
